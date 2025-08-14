@@ -19,7 +19,7 @@ Ayuda
 Al fin le entendí que debía dejar todo en el README pero seguiré dejando esta parte del texto como testigo de mi colapso 
 
 
-# 07/08
+# 07/08, Primeros pasos
 El profesor nos cuenta la situación referente a la dichosa marca de electrónicos conocida como Arduino, en particular que es de fantasía, el
 ATMEGA328P es la parte importante, luego haremos intercambio con algo que sí sirve
 
@@ -27,3 +27,6 @@ Historia de la tecnología, las máquinas, los computadores, programación, etc.
 
 
 # Referentes textuales
+
+# 14/08, Processing
+
