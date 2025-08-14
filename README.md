@@ -20,7 +20,7 @@ Al fin le entendí que debía dejar todo en el README pero seguiré dejando esta
 
 
 # 07/08
-El profesor nos cuenta la situación referente a la dichosa marca de electrónicos conocida como Arduino, en particular que es de fantasía
+El profesor nos cuenta la situación referente a la dichosa marca de electrónicos conocida como Arduino, en particular que es de fantasía, el
 ATMEGA328P es la parte importante, luego haremos intercambio
 Historia de la tecnología, las máquinas, los computadores, programación, etc.
 
