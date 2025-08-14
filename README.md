@@ -13,6 +13,16 @@ Luego ordeno todo
 Lo que quiero hacer: Sonidos, distorción, estridencia, ácido, oculto.
 
 Intentando desahogarme y no llorar de la frustación en medio de la clase por mi incompetencia porque sigo sin saber usar GitHub
+Ayuda
+Ayuda
+Ayuda
+Al fin le entendí que debía dejar todo en el README pero seguiré dejando esta parte del texto como testigo de mi colapso 
+
+
+# 07/08
+El profesor nos cuenta la situación referente a la dichosa marca de electrónicos conocida como Arduino, en particular que es de fantasía
+ATMEGA328P es la parte importante, luego haremos intercambio
+Historia de la tecnología, las máquinas, los computadores, programación, etc.
 
 
 # Referentes textuales
